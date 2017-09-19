@@ -1,5 +1,13 @@
 ---
 title: "About Me"
 ---
+<br>
+![](saaralonbarkat.jpg)  
+<br>
+I am a doctoral student at the Political-Science department at the Hebrew University of Jerusalem. I am a fellow of [the Azrieli fellows program](http://fellows.azrielifoundation.org/). 
 
-Why I am awesome. 
+I earned a LL.B in Law and MA in Political Science with high honors from the Hebrew University of Jerusalem. Before starting my graduate program, I worked in the Israeli Ministry of Justice, at the Attorney General's office, and also at the Prime Minister's Office, at the Department of Governance and Policy Planning. 
+
+I am interested in the relations between bureaucratic organizations and citizens. My Ph.D research focuses on bureaucracies' communication with citizens', and specifically their symbolic dimension, most prominently via branding, marketing, publicity and the like. I explore the influences of bureaucracies' symbolic communication on citizens' attitudes, and on bureaucracies' responsiveness to public pressures. 
+
+In addition to my academic projects, I volunteer at the Public Knowledge Workshop ("Hasadna"), an Israeli non-profit organization, which aims at making public information accessible to citizens via open-sourced internet projects, thereby promoting citizens' meaningful political participation. Within the "Hasadna", I am involved in the ["budget key project"](www.obudget.org), which seeks to make information on public budgeting, including government spending, accessible to the public.
