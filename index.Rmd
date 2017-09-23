@@ -1,9 +1,9 @@
 ---
-title: "Saar Alon-Barkat's academic Website"
+title: "Welcome to Saar Alon-Barkat academic website!"
 ---
-Welcome to my website
-<br>
-![](saaralonbarkat.jpg)  
-<br>
 
-E-mail: [saar.barkat@mail.huji.ac.il](mailto:saar.barkat@mail.huji.ac.il)
+![](bulb.jpg)
+<br>
+This website was built via Rmarkdown, thanks to [this tutorial](http://nickstrayer.me/RMarkdown_Sites_tutorial/). It's ridiculously easy, feel free to use [my code](https://github.com/saaralonbarkat/personal-site).   
+
+
