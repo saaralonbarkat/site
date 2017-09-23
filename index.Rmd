@@ -1,8 +1,9 @@
 ---
 title: "Welcome to Saar Alon-Barkat academic website!"
 ---
-
+<div style="width:1000px; height=1000px">
 ![](bulb.jpg)
+</div>
 <br>
 This website was built via Rmarkdown, thanks to [this tutorial](http://nickstrayer.me/RMarkdown_Sites_tutorial/). It's ridiculously easy, feel free to use [my code](https://github.com/saaralonbarkat/personal-site).   
 
