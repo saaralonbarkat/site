@@ -2,5 +2,5 @@
 title: "CV"
 ---
 <br><br>
-[CV (updated 7.9.2017)](C:/Users/mr.saar/personal-site/SAAR ALON BARKAT CV 7.9.17.pdf)
+[CV (updated 7.9.2017)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf) 
 <br><br>
