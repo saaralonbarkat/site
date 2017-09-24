@@ -1,17 +1,16 @@
 name: "SAAR ALON-BARKAT"
 output_dir: "."
 navbar:
-  title: "SAAR ALON-BARKAT"
+  title: "Saar Alon-Barkat"
+  type: inverse
   left:
-    - text: "HOME"
-      href: index.html
     - text: "ABOUT ME"
       href: about.html
     - text: "CV"
       href: cv.html
     - text: "PUBLICATIONS"
       href: publications.html
-    - text: "WORKING PROJECTS"
+    - text: "PROJECTS"
       href: projects.html
     - text: "DATA"
       href: data.html
@@ -30,6 +29,5 @@ navbar:
 
 output:
   html_document:
-    theme: cosmo
+    theme: readable
     highlight: textmate
-    css: style.css
