@@ -11,10 +11,10 @@ navbar:
       href: cv.html
     - text: "PUBLICATIONS"
       href: publications.html
-    - text: "WORKING PAPERS"
-      href: papers.html
-    - text: "PRESENTATIONS"
-      href: about.html
+    - text: "WORKING PROJECTS"
+      href: projects.html
+    - text: "DATA"
+      href: data.html
     - text: "CONTACT"
       href: contact.html
 output:
