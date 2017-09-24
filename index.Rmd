@@ -8,6 +8,6 @@ title: "Academic website of Saar Alon-Barkat"
 <br><br><br><br>
 
 <br><br>
-> This website was built via Rmarkdown, thanks to [this excellent tutorial](http://nickstrayer.me/RMarkdown_Sites_tutorial/). It's ridiculously easy, feel free to use [my code](https://github.com/saaralonbarkat/personal-site).   
+<p>This website was built via Rmarkdown, thanks to [this excellent tutorial](http://nickstrayer.me/RMarkdown_Sites_tutorial/). It's ridiculously easy, feel free to use [my code](https://github.com/saaralonbarkat/personal-site).<p>   
 
 
