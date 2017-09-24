@@ -15,9 +15,21 @@ navbar:
       href: projects.html
     - text: "DATA"
       href: data.html
-    - text: "CONTACT"
-      href: contact.html
+  right:
+    - text: ""
+      icon: fa-envelope-o
+      href: mailto:saar.barkat@mail.huji.ac.il                      # CHANGE HERE 
+    - text: ""
+      icon: fa-github
+      href: https://github.com/saaralonbarkat         # CHANGE HERE 
+    - text: "Research-Gate"
+      icon: fa-book
+      href: https://www.researchgate.net/profile/Saar_Alon-Barkat         # CHANGE HERE 
+
+
+
 output:
   html_document:
     theme: cosmo
+    highlight: textmate
     css: style.css
