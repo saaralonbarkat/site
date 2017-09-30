@@ -1,0 +1,48 @@
+---
+title: "Here's my data"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+.
+<br><br>
+> You're welcome to use the data. Make sure you're giving me credit and cite my work.
+
+---
+
+Alon-Barkat, Saar, and Sharon Gilad. 2017. "Compensating for Poor Performance with Promotional Symbols: Evidence from a Survey Experiment". *Journal of Public Administration Research and Theory*. 27(4): 661-675. DOI: [10.1093/jopart/mux013](https://doi.org/10.1093/jopart/mux013).  
+<br>
+```{r , include=FALSE, echo=FALSE}
+PROMSYMB = read.csv("C:/Users/mr.saar/personal-site/DATA_files/PROMSYMB.csv")
+```
+Data from experiment (conducted on December 2015).
+<br>
+
+* [Questionnaire (Qualtrics)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf).
+
+* [Dataset (csv format)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf).
+
+* [R script](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf).  
+
+<br>
+
+
+```{r , warning = FALSE, message = FALSE,echo=FALSE}
+require(rpivotTable)
+rpivotTable(PROMSYMB[,c("SYMBOL","AREA","EVALUATION_index","SATISFACTION","TRUST")], rendererName="Table")
+```
+<br>
+
+
+---
+
+<br>
+
+
+
+
+
+
+
