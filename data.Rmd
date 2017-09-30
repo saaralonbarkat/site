@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 .
 <br><br>
-> You're welcome to use the data. Make sure you're giving me credit and cite my work.
+*You're welcome to use the data (with proper credit)*.
 
 ---
 
