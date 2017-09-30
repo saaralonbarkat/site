@@ -4,7 +4,9 @@ title: "CV"
 <br><br>
 [CV (updated 7.9.2017)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf) 
 <br><br>
-***
+
+---
+
 <br>
 ###Personal details
 
@@ -17,9 +19,4 @@ ORCID ID: [0000-0002-3342-0568](http://orcid.org/0000-0002-3342-0568)
 <br><br>
 
 ###Education
-Years        | Description
--------------|-----------------------------------------------------------------------------
-2014--present|Ph.D. candidate in Public Administration, at the Department of Political Science at the Hebrew University of Jerusalem. Academic Supervisor: Prof. Sharon Gilad.
-.            |Dissertation title: “The symbolic aspects of government bureaucracies' public communications, and its influence on citizens' attitudes”. 
-
 
