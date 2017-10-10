@@ -1,5 +1,12 @@
 ---
 title: "CV"
+output:  
+  html_document:
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+      toc_depth: 3
 ---
 <br><br>
 [Full CV (PDF updated 7.9.2017)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf) 
@@ -68,9 +75,18 @@ Gilad, Sharon, Saar Alon-Barkat, and Chagai Weiss. "Bureaucratic Politics of Gov
 
 ###Fellowships
 
+Years        |Description
+-------------|---------------------------------------------------------------------------
+2016-present |[Azrieli Foundation Fellows program fellowship](http://fellows.azrielifoundation.org/) (68,000€ over three years).
+2014-2017    |[Hoffman leadership and responsibility program fellowship, the Hebrew University of Jerusalem](http://hoffman-program.huji.ac.il/page/3) (38,000€ over three years).
+2012-2017    |[Advanced Graduate Studies program fellowship ("Telem")](http://en.politics.huji.ac.il/book/program-advanced-degrees-telem). The Hebrew University of Jerusalem, the department of Political Science (49,000€ over five years).
+
+*These aforementioned amounts represent the full amount for each fellowship, in separate*
 
 
-Gilad, Sharon and Saar Alon-Barkat. "The Social Identification of Senior Civil Servants in Local Governments and Support for Policy Change in Response to Changing Public Agendas". Work in progress.
+
+
+
 
 
 

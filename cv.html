@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-1.1/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-1.1/highlight.js"></script>
@@ -162,6 +165,107 @@ $(document).ready(function () {
 
 
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = false;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+  padding-left: 25px;
+  text-indent: 0;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+.tocify-subheader {
+  display: inline;
+}
+.tocify-subheader .tocify-item {
+  font-size: 0.95em;
+}
+
+</style>
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
 
 
 <div class="navbar navbar-inverse  navbar-fixed-top" role="navigation">
@@ -301,12 +405,40 @@ $(document).ready(function () {
 <p><br></p>
 <div id="fellowships" class="section level3">
 <h3>Fellowships</h3>
-<p>Gilad, Sharon and Saar Alon-Barkat. “The Social Identification of Senior Civil Servants in Local Governments and Support for Policy Change in Response to Changing Public Agendas”. Work in progress.</p>
+<table>
+<colgroup>
+<col width="15%" />
+<col width="84%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Years</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>2016-present</td>
+<td><a href="http://fellows.azrielifoundation.org/">Azrieli Foundation Fellows program fellowship</a> (68,000€ over three years).</td>
+</tr>
+<tr class="even">
+<td>2014-2017</td>
+<td><a href="http://hoffman-program.huji.ac.il/page/3">Hoffman leadership and responsibility program fellowship, the Hebrew University of Jerusalem</a> (38,000€ over three years).</td>
+</tr>
+<tr class="odd">
+<td>2012-2017</td>
+<td><a href="http://en.politics.huji.ac.il/book/program-advanced-degrees-telem">Advanced Graduate Studies program fellowship (“Telem”)</a>. The Hebrew University of Jerusalem, the department of Political Science (49,000€ over five years).</td>
+</tr>
+</tbody>
+</table>
+<p><em>These aforementioned amounts represent the full amount for each fellowship, in separate</em></p>
 </div>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
