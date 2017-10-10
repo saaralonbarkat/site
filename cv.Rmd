@@ -7,7 +7,9 @@ title: "CV"
 
 ---
 
-<br>
+
+
+
 ###Personal details
 
 Name: Saar Alon-Barkat
@@ -25,4 +27,24 @@ ORCID ID: [0000-0002-3342-0568](http://orcid.org/0000-0002-3342-0568)
 Years        |Description
 -------------|---------------------------------------------------------------------------
 2014-present |Ph.D. candidate in Public Administration at the department of Political Science at the Hebrew University of Jerusalem. Academic Supervisor: Prof. Sharon Gilad.
-.            |Dissertation title: "The symbolic aspects of government bureaucracies' public communications, and its influence on citizens' attitudes".
+.            |Dissertation title: *The symbolic aspects of government bureaucracies' public communications, and its influence on citizens' attitudes*.
+2012-2014    |M.A. *Summa cum Laude in Political Science, at the department of Political Science at the Hebrew University of Jerusalem (advanced graduate studies program). Academic supervisor: Prof. Sharon Gilad.
+.            |M.A. thesis title: *Political control and organizations' symbolic responses to bottom-up public pressures*.
+2007-2011    |LL.B. *Magna cum Laude* in Law and Political Science, at the Hebrew University of Jerusalem.
+
+---
+###Publications
+
+Gilad, Sharon, and Saar Alon-Barkat. In Press, 2017. "Enhancing Democracy via Bureaucracy: Senior managers' Social Identificaties and Motivation for Policy Change". *Governance*. DOI: [10.1111/gove.12300](https://doi.org/10.1111/gove.12300).  
+
+Alon-Barkat, Saar, and Sharon Gilad. 2017. "Compensating for Poor Performance with Promotional Symbols: Evidence from a Survey Experiment". *Journal of Public Administration Research and Theory*. 27(4): 661-675. DOI: [10.1093/jopart/mux013](https://doi.org/10.1093/jopart/mux013).  
+
+Gilad, Sharon, Saar Alon-Barkat, and Alexandr Braverman. 2016. "Large-Scale Social Protest: A Business Risk and a Bureaucratic Opportunity". *Governance* 29(3): 371-392. DOI: [10.1111/gove.12173](https://doi.org/10.1111/gove.12173).  
+
+Alon-Barkat, Saar, and Sharon Gilad. 2016. "Political control or legitimacy deficit? Bureaucracies' symbolic responses to bottom-up public pressures". *Policy & Politics* 44(1): 41-58. DOI: [10.1332/030557315x14443003393944](https://doi.org/10.1332/030557315x14443003393944)
+
+
+
+###Working papers
+
+
