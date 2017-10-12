@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: ""
 output:  
   html_document:
     toc: yes
@@ -9,8 +9,7 @@ output:
       toc_depth: 3
 ---
 <br><br>
-[Full CV (PDF updated 7.9.2017)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf) 
-<br><br>
+
 
 ---
 
@@ -90,11 +89,13 @@ Years        |Description
 
 ###Prizes and awards
 
-2016-present: Research grant by the Azrieli Foundation Fellows program fellowship (8,800 EUROS)
-2015: Award for an Outstanding MA Thesis by the Israel Political Science Association (250 EUROS).
-2015: The Nancy & Lawrence E. Glick Prize in Israeli Democracy, for Best MA thesis (1,700 EUROS).
-2014: The Hebrew University's Rector's honor list award for MA students (1,200 EUROS).
-2009-2011: Law Faculty Dean's honor list Awards for BA students for years: 2008, 2009, 2010.
+Years        |Description
+-------------|---------------------------------------------------------------------------
+2016-present |Research grant by the Azrieli Foundation Fellows program fellowship (8,800 EUROS).
+2015         |Award for an Outstanding MA Thesis by the Israel Political Science Association (250 EUROS).
+2015         |The Nancy & Lawrence E. Glick Prize in Israeli Democracy, for Best MA thesis (1,700 EUROS).
+2014         |The Hebrew University's Rector's honor list award for MA students (1,200 EUROS).
+2009-2011    |Law Faculty Dean's honor list Awards for BA students for years: 2008, 2009, 2010.
 
 
 ---
@@ -183,8 +184,8 @@ Years        |Description
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2017         |Study group of Hebrew University graduate students (“Limud BeChevruta”) on “Public policy".
-2015-2016    |Co-founder and coordinator of a study group of Hebrew University graduate students (“Limud BeChevruta”) on “Politics Now: Issues and Dilemmas in the Political Research of Contemporary Events”.
+2017         |Study group of Hebrew University graduate students ("Limud BeChevruta") on “Public policy".
+2015-2016    |Co-founder and coordinator of a study group of Hebrew University graduate students ("Limud BeChevruta") on "Politics Now: Issues and Dilemmas in the Political Research of Contemporary Events".
 2015         |Co-organizer of a full-day workshop for Political Science graduate students, facilitated by Dr. Guy Grossman (University of Pennsylvania).
 2015-present |Co-founder and coordinator of the Israeli Public Administration and Public Policy researchers' inter-university forum.
 
@@ -200,7 +201,7 @@ Years        |Description
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2017         |Member of a "Nudge" policy pilot project, in collaboration with Jerusalem municipality and the Ministry of Finance. As a part of "Nudgethon" – government-academia collaborative initiative. 
+2017         |Member of a "Nudge" policy pilot project, in collaboration with Jerusalem municipality and the Ministry of Finance. As a part of "Nudgethon", government-academia collaborative initiative on nudge policy solutions. 
 2012         |Employee at the Israeli Prime Minister's Office, the Department of Governance and Policy Planning.
 2011-2012    |Employee at the Ministry of Justice. Legal internship at the Attorney General of the state of Israel, Adv. Yehuda Weinstein. 
 
@@ -214,7 +215,20 @@ Years        |Description
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2012-present |Active Volunteering at the 'The Public Knowledge Workshop' – Israeli non-profit organization working to make public information accessible to citizens using open sourced digital projects. Developer and data analyst in the ["Budget-key project"](www.obudget.org), which aims to make information on government spending accessible to the public. 
+2012-present |Active Volunteering at the "The Public Knowledge Workshop", Israeli non-profit organization working to make public information accessible to citizens using open sourced digital projects. Developer and data analyst in the ["Budget-key project"](www.obudget.org), which aims to make information on government spending accessible to the public.
+
+
+
+---
+
+
+
+
+
+[CV in PDF format (updated 7.9.2017)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf) 
+
+
+
 
 
 
