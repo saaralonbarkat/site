@@ -18,12 +18,9 @@ Alon-Barkat, Saar, and Sharon Gilad. 2017. "Compensating for Poor Performance wi
 PROMSYMB = read.csv("C:/Users/mr.saar/personal-site/DATA_files/PROMSYMB.csv")
 ```
 Data from experiment (conducted on December 2015).
-<br>
 
 * [Questionnaire (Qualtrics)](https://github.com/saaralonbarkat/personal-site/blob/master/DATA_files/survey%20final.pdf).
-
 * [Dataset (csv format)](https://github.com/saaralonbarkat/personal-site/blob/master/DATA_files/PROMSYMB.csv).
-
 * [R script](https://github.com/saaralonbarkat/personal-site/blob/master/DATA_files/IEC_experiment_07.R).  
 
 <br>
@@ -31,7 +28,10 @@ Data from experiment (conducted on December 2015).
 
 ```{r , warning = FALSE, message = FALSE,echo=FALSE}
 require(rpivotTable)
-rpivotTable(PROMSYMB[,c("SYMBOL","AREA","EVALUATION_index","SATISFACTION","TRUST")], rendererName="Table")
+require(dplyr)
+PROMSYMB_01 = PROMSYMB %>%
+  select(SYMBOL,AREA,EVALUATION_index,SATISFACTION,TRUST)
+rpivotTable(PROMSYMB_01)
 ```
 <br>
 
