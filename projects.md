@@ -15,7 +15,7 @@ I'm currently working on the following studies:
 
 * Theoretical background and research proposal were presented on April 2017 at the IRSPM Conference, and are available [here](https://irspm2017.exordo.com/files/papers/103/final_draft/Saar_Alon-Barkat_IRSPM_2017__14.4.2017_.pdf). 
 * Experiment 1 was conducted on May 2017. Results are summarized [here](https://rpubs.com/saaralonbarkat/292982).
-* Experiment 2 will be conducted on November 2017, and will be presented at the [Rabin Graduate Conference](http://gradcon.huji.ac.il/) at Jerusalem on December 2017.  
+* Results of Experiment 1 were presented at the [Rabin Graduate Conference](http://gradcon.huji.ac.il/) at Jerusalem on December 2017. See paper draft [here](https://github.com/saaralonbarkat/personal-site/raw/master/Saar%20Alon-Barkat_gradconf%202017.pdf). 
 
 
 
