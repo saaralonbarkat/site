@@ -14,8 +14,6 @@ navbar:
       href: projects.html
     - text: "DATA"
       href: data.html
-    - text: "HEblog"
-      href: HEBlog.html      
   right:
     - text: ""
       icon: fa-envelope-o

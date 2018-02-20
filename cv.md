@@ -2,6 +2,10 @@
 <br><br>
 
 
+
+[CV in PDF format (updated 20.2.2018)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%220.2.18.pdf) 
+
+
 ---
 
 
@@ -52,11 +56,17 @@ Alon-Barkat, Saar, and Sharon Gilad. 2016. "Political control or legitimacy defi
 
 ###Working papers
 
+Gilad, Sharon, Saar Alon-Barkat, and Chagai Weiss. "Government Translation of Social Movementsג€™ Agendas and its Shaping by Bureucratic Politics". Work in progress (submitted for publication).
+
+
+Saar Alon-Barkat. "The effects of symbols and information in government public communication on citizens' trust: Evidence from a survey experiment". Work in progress.
+
+
 Alon-Barkat, Saar. "Bureaucracies' Shaping of Citizens' Attitudes: Functional, Informational, Procedural-Fairness and Symbolic Effect". Work in progress.
 
-Saar Alon-Barkat. "The Effects of Substantive Information and Symbols on Citizens' Attitudes, and their Moderation by Personal Relevance". Work in progress.
 
-Gilad, Sharon, Saar Alon-Barkat, and Chagai Weiss. "Bureaucratic Politics of Government Translation of Social Movement Agendas". Work in progress.
+Gilad, Sharon and Saar Alon-Barkat. "Civil Servantsג€™ Social Identities as Factor Balancing Between Reputation Seeking and Accountability". Work in progress.
+
 
 
 
@@ -95,9 +105,10 @@ Years        |Description
 ###Reviewer for journals 
 2017-Present: Public Administration.
 2016-Present: Journal of Public Administration Research and Theory.
-2016-Present: Governance. 
-2015-Present: Regulation & Governance.
+2016: Governance. 
+2015: Regulation & Governance.
 
+See list of reviews in [Publons](https://publons.com/author/1367408/saar-alon-barkat) 
 
 ---
 
@@ -114,6 +125,8 @@ Israel Political Science Association (ISPSA).
 
 
 ###Conferences presentations
+Saar Alon-Barkat. " The effects of symbols and information in government public communication on citizens' trust: Evidence from a survey experiment". Public Management Research Conference (PMRC), Singapore (June 2018).
+
 Saar Alon-Barkat. "The Effects of Substantive Information and Symbols on Citizens' Attitudes, and Their Moderation by Personal Relevance". 21st Annual IRSPM Conference, Budapest (April 2017).
 
 Saar Alon-Barkat. "The Effects of Substantive Information and Symbols on Citizens' Attitudes, and Their Moderation by Personal Relevance". The 12th Annual Graduate Conference in Political Science, International Relations and Public Policy, Jerusalem (December 2016).
@@ -147,7 +160,9 @@ Saar Alon Barkat, Tamar Hofnung, "Between State and Private Sector: Battered Wom
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2016         |Successful Public Governance (SPG) workshop. Utrecht, Netherlands.
+2018         |ECPR Joint sessions of Workshops. Workshop on "Accountability and Reputation". Nicosia, Cyprus.
+2017         |Workshop on mismatches between performance and reputation in Governance. Utrecht, Netherlands.
+2017         |Successful Public Governance (SPG) workshop. Utrecht, Netherlands.
 2015         |Israeli-Canadian Workshop on "Institutions and Individual, Organizational and Field Level Identities", Halbert Center and the Jerusalem School of Business Administration.
 
 
@@ -159,7 +174,7 @@ Years        |Description
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2016-present |Lecturer, ג€A theoretical lens on Public Administration" course (graduate, honors program). The Federmann School of Public Policy and Government, Hebrew University of Jerusalem.
+2016-2017    |Lecturer, ג€A theoretical lens on Public Administration" course (graduate, honors program). The Federmann School of Public Policy and Government, Hebrew University of Jerusalem.
 2013-2014    |Teaching assistant, ג€A theoretical lens on Public Administration" course (graduate, honors program). The Federmann School of Public Policy and Government, Hebrew University of Jerusalem.
 2013-2015    |Teaching assistant, ג€Research methods" course (undergraduate). The Department of Political Science, the Hebrew University of Jerusalem.
 2012-2014    |Teaching assistant, "Israeli politics" course (undergraduate), The Department of Political Science, the Hebrew University of Jerusalem.
@@ -175,7 +190,8 @@ Years        |Description
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2017         |Study group of Hebrew University graduate students ("Limud BeChevruta") on ג€Public policy".
+2017-present |Co-founder of project [Israeli research in 500 words](https://www.facebook.com/israeliresearch500words/): an online platform enabling Israeli academic scholars to communicate their researches with Israeli non-academic audiences. 
+2017-present |Founder and coordinator of a study group of Hebrew University graduate students on "R" (open source software environment for statistical computing and graphics).
 2015-2016    |Co-founder and coordinator of a study group of Hebrew University graduate students ("Limud BeChevruta") on "Politics Now: Issues and Dilemmas in the Political Research of Contemporary Events".
 2015         |Co-organizer of a full-day workshop for Political Science graduate students, facilitated by Dr. Guy Grossman (University of Pennsylvania).
 2015-present |Co-founder and coordinator of the Israeli Public Administration and Public Policy researchers' inter-university forum.
@@ -215,8 +231,6 @@ Years        |Description
 
 
 
-
-[CV in PDF format (updated 7.9.2017)](https://github.com/saaralonbarkat/personal-site/raw/master/SAAR%20ALON%20BARKAT%20CV%207.9.17.pdf) 
 
 
 
