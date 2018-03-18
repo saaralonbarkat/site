@@ -1,6 +1,6 @@
 # Hi there, I'm Saar Alon-Barkat
 I'm a PhD student in public administration.
-[Read more about my work.](about.html).  
+[Read more about my work](about.html).  
 
 <br>
 <div style="width:730px; height=730px">
