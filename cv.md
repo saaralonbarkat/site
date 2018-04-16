@@ -3,7 +3,7 @@
 
 
 
-[CV in PDF format (updated 20.2.2018)](https://github.com/saaralonbarkat/personal-site/blob/master/Saar%20Alon-Barkat%20CV%2020.2.18.pdf) 
+[CV in PDF format (updated 16.4.2018)](https://github.com/saaralonbarkat/personal-site/blob/master/Saar%20Alon-Barkat%20CV%2016.4.18.pdf) 
 
 
 ---
@@ -56,16 +56,18 @@ Gilad, Sharon, **Saar Alon-Barkat**, and Alexandr Braverman. 2016. "Large-Scale 
 
 ###Working papers
 
-Gilad, Sharon, Saar Alon-Barkat, and Chagai Weiss. "Government Translation of Social Movementsג€™ Agendas and its Shaping by Bureucratic Politics". Work in progress (submitted for publication).
+Gilad, Sharon, **Saar Alon-Barkat**, and Chagai Weiss. "Government Translation of Social Movementsג€™ Agendas and its Shaping by Bureucratic Politics". Work in progress (submitted for publication).
 
 
-Saar Alon-Barkat. "The effects of symbols and information in government public communication on citizens' trust: Evidence from a survey experiment". Work in progress.
+**Saar Alon-Barkat**. "The effects of symbols and information in government public communication on citizens' trust: Evidence from a survey experiment". Work in progress.
 
 
-Alon-Barkat, Saar. "Bureaucracies' Shaping of Citizens' Attitudes: Functional, Informational, Procedural-Fairness and Symbolic Effect". Work in progress.
+**Alon-Barkat, Saar**. "Bureaucracies' Shaping of Citizens' Attitudes: Functional, Informational, Procedural-Fairness and Symbolic Effect". Work in progress.
 
 
-Gilad, Sharon and Saar Alon-Barkat. "Civil Servantsג€™ Social Identities as Factor Balancing Between Reputation Seeking and Accountability". Work in progress.
+Gilad, Sharon and **Saar Alon-Barkat**. "Civil Servantsג€™ Social Identities as Factor Balancing Between Reputation Seeking and Accountability". Work in progress.
+
+Sulitzeanu-Kenan, Raanan, Markus Tepe, **Saar Alon-Barkat**, Michael Jankowski and Christine Prokop. "An Experimental Treatment of Public Sector Identity: Evidence from Germany and Israel". Work in progress.
 
 
 
