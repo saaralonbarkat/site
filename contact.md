@@ -1,4 +1,6 @@
-# CONTACT INFORMATION
+---
+title: "CONTACT INFORMATION"
+---
 <br><br>
 E-mail: [saar.barkat@mail.huji.ac.il](mailto:saar.barkat@mail.huji.ac.il)
 

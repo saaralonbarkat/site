@@ -1,7 +1,12 @@
-# PUBCLICATIONS
+---
+title: "PUBCLICATIONS"
+---
 <br><br>
 <a href="https://orcid.org/0000-0002-3342-0568" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3342-0568</a>
 <br><br>
+
+Gilad, Sharon, **Saar Alon-Barkat**, and Chagai Weiss. 2018. "Bureaucratic politics and the translation of movement agendas". Governance. DOI: [10.1111/gove.12383](https://doi.org/10.1111/gove.12300). 
+
 Gilad, Sharon, and **Saar Alon-Barkat**. 2018. "Enhancing Democracy via Bureaucracy: Senior managers' Social Identificaties and Motivation for Policy Change". *Governance*. 31(2): 359-380. DOI: [10.1111/gove.12300](https://doi.org/10.1111/gove.12300).  
 
 **Alon-Barkat, Saar**, and Sharon Gilad. 2017. "Compensating for Poor Performance with Promotional Symbols: Evidence from a Survey Experiment". *Journal of Public Administration Research and Theory*. 27(4): 661-675. DOI: [10.1093/jopart/mux013](https://doi.org/10.1093/jopart/mux013).  

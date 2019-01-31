@@ -1,9 +1,18 @@
-# 
+---
+title: ""
+output:  
+  html_document:
+    toc: yes
+    toc_float:
+      collapsed: no
+      smooth_scroll: yes
+      toc_depth: 3
+---
 <br><br>
 
 
 
-[CV in PDF format (updated 16.4.2018)](https://github.com/saaralonbarkat/personal-site/blob/master/Saar%20Alon-Barkat%20CV%2016.4.18.pdf) 
+[CV in PDF format (updated 16.4.2018)](https://github.com/saaralonbarkat/personal-site/blob/master/Saar%20Alon-Barkat%20CV%2030.1.19.pdf) 
 
 
 ---
@@ -56,7 +65,7 @@ Gilad, Sharon, **Saar Alon-Barkat**, and Alexandr Braverman. 2016. "Large-Scale 
 
 ###Working papers
 
-Gilad, Sharon, **Saar Alon-Barkat**, and Chagai Weiss. "Government Translation of Social Movementsג€™ Agendas and its Shaping by Bureucratic Politics". Work in progress (submitted for publication).
+Gilad, Sharon, **Saar Alon-Barkat**, and Chagai Weiss. "Government Translation of Social Movements’ Agendas and its Shaping by Bureucratic Politics". Work in progress (submitted for publication).
 
 
 **Saar Alon-Barkat**. "The effects of symbols and information in government public communication on citizens' trust: Evidence from a survey experiment". Work in progress.
@@ -65,7 +74,7 @@ Gilad, Sharon, **Saar Alon-Barkat**, and Chagai Weiss. "Government Translation o
 **Alon-Barkat, Saar**. "Bureaucracies' Shaping of Citizens' Attitudes: Functional, Informational, Procedural-Fairness and Symbolic Effect". Work in progress.
 
 
-Gilad, Sharon and **Saar Alon-Barkat**. "Civil Servantsג€™ Social Identities as Factor Balancing Between Reputation Seeking and Accountability". Work in progress.
+Gilad, Sharon and **Saar Alon-Barkat**. "Civil Servants’ Social Identities as Factor Balancing Between Reputation Seeking and Accountability". Work in progress.
 
 Sulitzeanu-Kenan, Raanan, Markus Tepe, **Saar Alon-Barkat**, Michael Jankowski and Christine Prokop. "An Experimental Treatment of Public Sector Identity: Evidence from Germany and Israel". Work in progress.
 
@@ -176,9 +185,9 @@ Years        |Description
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2016-2017    |Lecturer, ג€A theoretical lens on Public Administration" course (graduate, honors program). The Federmann School of Public Policy and Government, Hebrew University of Jerusalem.
-2013-2014    |Teaching assistant, ג€A theoretical lens on Public Administration" course (graduate, honors program). The Federmann School of Public Policy and Government, Hebrew University of Jerusalem.
-2013-2015    |Teaching assistant, ג€Research methods" course (undergraduate). The Department of Political Science, the Hebrew University of Jerusalem.
+2016-2017    |Lecturer, “A theoretical lens on Public Administration" course (graduate, honors program). The Federmann School of Public Policy and Government, Hebrew University of Jerusalem.
+2013-2014    |Teaching assistant, “A theoretical lens on Public Administration" course (graduate, honors program). The Federmann School of Public Policy and Government, Hebrew University of Jerusalem.
+2013-2015    |Teaching assistant, “Research methods" course (undergraduate). The Department of Political Science, the Hebrew University of Jerusalem.
 2012-2014    |Teaching assistant, "Israeli politics" course (undergraduate), The Department of Political Science, the Hebrew University of Jerusalem.
 2012-2013    |Teaching assistant, "Introduction to Public Administration" course (undergraduate), The Department of Political Science, the Hebrew University of Jerusalem.
 2012-2013    |Teaching assistant, "Academic reading and writing" course (undergraduate), The Department of Political Science, the Hebrew University of Jerusalem.
