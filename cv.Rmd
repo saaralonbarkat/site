@@ -22,9 +22,7 @@ output:
 
 ###Personal details
 
-Name: Saar Alon-Barkat
-
-E-mail: [saar.barkat@mail.huji.ac.il](mailto:saar.barkat@mail.huji.ac.il) 
+E-mail: [s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
 
 ORCID ID: [0000-0002-3342-0568](http://orcid.org/0000-0002-3342-0568)
 
@@ -32,16 +30,20 @@ ORCID ID: [0000-0002-3342-0568](http://orcid.org/0000-0002-3342-0568)
 
 ---
 
+###Academic positions
+
+Years        |Description
+-------------|---------------------------------------------------------------------------
+2018-present |Postdoctoral researcher at Leiden University, Institute of Public Administration. 
+
 
 ###Education
 
 Years        |Description
 -------------|---------------------------------------------------------------------------
-2014-present |Ph.D. candidate in Public Administration at the department of Political Science at the Hebrew University of Jerusalem. Academic Supervisor: Prof. Sharon Gilad.
-.            |Dissertation title: *The symbolic aspects of government bureaucracies' public communications, and its influence on citizens' attitudes*.
-2012-2014    |M.A. *Summa cum Laude in Political Science, at the department of Political Science at the Hebrew University of Jerusalem (advanced graduate studies program). Academic supervisor: Prof. Sharon Gilad.
-.            |M.A. thesis title: *Political control and organizations' symbolic responses to bottom-up public pressures*.
-2007-2011    |LL.B. *Magna cum Laude* in Law and Political Science, at the Hebrew University of Jerusalem.
+2014-2018 |Ph.D. in Public Administration. The Hebrew University of Jerusalem, the Department of Political Science. 
+2012-2014    |M.A. in Political Science (*Summa cum Laude*). The Hebrew University of Jerusalem, the department of Political Science
+2007-2011    |LL.B. in Law and Political Science (*Magna cum Laude*). The Hebrew University of Jerusalem.
 
 
 ---
@@ -49,6 +51,8 @@ Years        |Description
 
 ###Publications
 
+
+Gilad, Sharon, **Saar Alon-Barkat**, and Chagai Weiss. 2018. "Bureaucratic politics and the translation of movement agendas". Governance. DOI: [10.1111/gove.12383](https://doi.org/10.1111/gove.12300). 
 
 Gilad, Sharon, and **Saar Alon-Barkat**. 2018. "Enhancing Democracy via Bureaucracy: Senior managers' Social Identificaties and Motivation for Policy Change". *Governance*. 31(2): 359-380. DOI: [10.1111/gove.12300](https://doi.org/10.1111/gove.12300).  
 
@@ -65,19 +69,12 @@ Gilad, Sharon, **Saar Alon-Barkat**, and Alexandr Braverman. 2016. "Large-Scale 
 
 ###Working papers
 
-Gilad, Sharon, **Saar Alon-Barkat**, and Chagai Weiss. "Government Translation of Social Movements’ Agendas and its Shaping by Bureucratic Politics". Work in progress (submitted for publication).
 
+Alon-Barkat, Saar. "Can government public communications elicit undue trust? Exploring the interaction between symbols and substantive information in communications". (Under review).
 
-**Saar Alon-Barkat**. "The effects of symbols and information in government public communication on citizens' trust: Evidence from a survey experiment". Work in progress.
+Alon-Barkat, Saar. "The persuasion of symbolic elements in government public communications, and their moderation by personal relevance". (Under review).
 
-
-**Alon-Barkat, Saar**. "Bureaucracies' Shaping of Citizens' Attitudes: Functional, Informational, Procedural-Fairness and Symbolic Effect". Work in progress.
-
-
-Gilad, Sharon and **Saar Alon-Barkat**. "Civil Servants’ Social Identities as Factor Balancing Between Reputation Seeking and Accountability". Work in progress.
-
-Sulitzeanu-Kenan, Raanan, Markus Tepe, **Saar Alon-Barkat**, Michael Jankowski and Christine Prokop. "An Experimental Treatment of Public Sector Identity: Evidence from Germany and Israel". Work in progress.
-
+Gilad, Sharon and Saar Alon-Barkat. "Civil Servants’ Identification with the Public as a Counter to Tunnel Vision Reputation Maximization". Work in progress.
 
 
 
@@ -136,21 +133,15 @@ Israel Political Science Association (ISPSA).
 
 
 ###Conferences presentations
-Saar Alon-Barkat. " The effects of symbols and information in government public communication on citizens' trust: Evidence from a survey experiment". Public Management Research Conference (PMRC), Singapore (June 2018).
+Saar Alon-Barkat. " The effects of symbols and information in government communications on citizens trust: Evidence from a survey experiment".  14th Transatlantic Dialogue (TAD), Bucharest (June 2018).
 
 Saar Alon-Barkat. "The Effects of Substantive Information and Symbols on Citizens' Attitudes, and Their Moderation by Personal Relevance". 21st Annual IRSPM Conference, Budapest (April 2017).
-
-Saar Alon-Barkat. "The Effects of Substantive Information and Symbols on Citizens' Attitudes, and Their Moderation by Personal Relevance". The 12th Annual Graduate Conference in Political Science, International Relations and Public Policy, Jerusalem (December 2016).
 
 Saar Alon-Barkat and Gilad, Sharon. "Offsetting the Effect of Bad Performance with Promotional Symbols: Evidence from a Survey Experiment". World Congress of Political Science (IPSA), Poznan (July 2016).
 
 Saar Alon-Barkat and Gilad, Sharon. "Offsetting the Effect of Bad Performance with Promotional Symbols: Evidence from a Survey Experiment". Public Management Research Conference (PMRC), Aarhus (June 2016).
 
-Saar Alon-Barkat. "Bureaucracies' Shaping of Citizens' Attitudes: Functional, Informational, Procedural-Fairness and Symbolic Effects". The 11th Annual Graduate Conference in Political Science, International Relations and Public Policy, Jerusalem (December 2015).
-
 Saar Alon-Barkat. "Bureaucracies' Shaping of Citizens' Attitudes: Functional, Informational, Procedural-Fairness and Symbolic Effects". The 73rd Annual Midwest Political Science Association (MPSA) Conference, Chicago (April 2015).
-
-Saar Alon-Barkat. "Distinguishing the Symbolic Dimension in Democratic Responsiveness: Towards a New Research Direction". The 10th Annual Graduate Conference in Political Science, International Relations and Public Policy, Jerusalem (December 2014).
 
 Saar Alon-Barkat and Sharon Gilad. "Political Control or Legitimacy Deficit? Bureaucracies? Symbolic Response to Bottom-Up Public Pressures". 8th ECPR General Conference, Glasgow (September 2014).
 
@@ -159,9 +150,6 @@ Saar Alon-Barkat and Sharon Gilad, "Political Control and Organizations Symbolic
 Sharon Gilad and Saar Alon-Barkat, "A Comparison of Public and Private Organizations? Management of Mass Social Protest via Communications". Paper presented at the 2014 SOG (Structure and Organization of Government) conference, Jerusalem (Jan 2014).
 
 Saar Alon-Barkat, "Designing Universal Measures for Dimensional Publicness". Paper presented at the 2014 SOG (Structure and Organization of Government) conference, Jerusalem (Jan 2014).
-
-Saar Alon Barkat, Tamar Hofnung, "Between State and Private Sector: Battered Women Shelters Policy in Israel". Paper presented at the 15th Annual Conference of the Israeli Political Science Association (ISPSA). Jerusalem (May 2013).
-
 
 
 ---
