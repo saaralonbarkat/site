@@ -1,5 +1,7 @@
-# Hi there, I'm Saar Alon-Barkat
-I'm a PhD student in public administration.
+---
+title: "Hi there, I'm Saar Alon-Barkat"
+---
+I'm a postdoctoral researcher in public administration.
 [Read more about my work](about.html).  
 
 <br>
