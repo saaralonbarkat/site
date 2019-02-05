@@ -1,4 +1,4 @@
-setwd("C:/SAAR/UNIVERSITY/R/personal site")
+setwd("C:/Users/OWNER/site")
 
 #render your sweet site. 
 rmarkdown::render_site()
