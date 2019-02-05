@@ -12,7 +12,7 @@ output:
 
 
 
-[CV in PDF format (updated 16.4.2018)](https://github.com/saaralonbarkat/personal-site/blob/master/Saar%20Alon-Barkat%20CV%2030.1.19.pdf) 
+[CV in PDF format (updated 30-01-2019)](https://github.com/saaralonbarkat/site/raw/master/Saar%20Alon-Barkat%20CV%2030.1.19.pdf) 
 
 
 ---

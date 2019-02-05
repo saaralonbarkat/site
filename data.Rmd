@@ -19,9 +19,9 @@ PROMSYMB = read.csv("C:/Users/mr.saar/personal-site/DATA_files/PROMSYMB.csv")
 ```
 Data from experiment (conducted on December 2015).
 
-* [Questionnaire (Qualtrics)](https://github.com/saaralonbarkat/personal-site/blob/master/DATA_files/survey%20final.pdf).
-* [Dataset (csv format)](https://github.com/saaralonbarkat/personal-site/blob/master/DATA_files/PROMSYMB.csv).
-* [R script](https://github.com/saaralonbarkat/personal-site/blob/master/DATA_files/IEC_experiment_07.R).  
+* [Questionnaire (Qualtrics)](https://github.com/saaralonbarkat/site/blob/master/DATA_files/survey%20final.pdf).
+* [Dataset (csv format)](https://github.com/saaralonbarkat/site/blob/master/DATA_files/PROMSYMB.csv).
+* [R script](https://github.com/saaralonbarkat/site/blob/master/DATA_files/IEC_experiment_07.R).  
 
 <br>
 
