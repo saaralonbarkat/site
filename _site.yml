@@ -21,8 +21,7 @@ navbar:
     - text: ""
       icon: fa-github
       href: https://github.com/saaralonbarkat         # CHANGE HERE 
-    - text: "Research-Gate"
-      icon: fa-book
+    - text: "R-G"
       href: https://www.researchgate.net/profile/Saar_Alon-Barkat         # CHANGE HERE 
 
 
