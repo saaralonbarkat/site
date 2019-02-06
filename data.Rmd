@@ -18,7 +18,7 @@ Data is based on online survey experiment conducted on December 2015.
 Replication materials available [here](https://github.com/saaralonbarkat/IEC_2015). 
 <br>
 ```{r , include=FALSE, echo=FALSE}
-PROMSYMB = read.csv("C:/Users/OWNER/site/DATA_files/PROMSYMB.csv")
+PROMSYMB = read.csv("C:/SAAR/UNIVERSITY/R/site/DATA_files/PROMSYMB.csv")
 ```
 
 <br>

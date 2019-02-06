@@ -6,7 +6,7 @@ I'm a postdoctoral researcher in public administration.
 
 <br>
 <div style="width:730px; height=730px">
-![](bulb.jpg)
+![](images/bulb.jpg)
 </div>
 <br><br><br><br>
 
