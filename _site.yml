@@ -6,8 +6,6 @@ navbar:
   left:
     - text: "ABOUT ME"
       href: about.html
-    - text: "CV"
-      href: cv.html
     - text: "PUBLICATIONS"
       href: publications.html
     - text: "PROJECTS"
@@ -31,6 +29,6 @@ navbar:
 
 output:
   html_document:
-    keep_md: yes
+    keep_md: no
     theme: readable
     highlight: textmate
