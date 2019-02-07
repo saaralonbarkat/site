@@ -21,14 +21,18 @@ I am a methodological pluralist. I specialize in behavioral experiments, yet in 
 ---
 
 E-mail: [s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
-<br>
-ORCID ID: [0000-0002-3342-0568](http://orcid.org/0000-0002-3342-0568)
-<br>
-Follow me on [ResearchGate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
+
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3342-0568" href="https://orcid.org/0000-0002-3342-0568" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3342-0568</a></div>
 
 <br>
+[ResearchGate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
 
-[CV (updated 30-01-2019)](https://github.com/saaralonbarkat/site/raw/master/files/Saar%20Alon-Barkat%20CV%2030.1.19.pdf) 
+GitHub [saaralonbarkat](https://github.com/saaralonbarkat)
+
+[Publons](https://publons.com/researcher/1367408/saar-alon-barkat/)
+<br>
+
+[Download my CV](https://github.com/saaralonbarkat/site/raw/master/files/Saar%20Alon-Barkat%20CV%2030.1.19.pdf) 
 
 
 ---
