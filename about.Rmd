@@ -20,23 +20,23 @@ I am a methodological pluralist. I specialize in behavioral experiments, yet in 
 
 ---
 
-`r icon::fa("envelope")` [s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
+[`r icon::fa("envelope")` s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
 
-`r icon::fa("bars")` [Research Gate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
+[`r icon::fa("bars")` Research Gate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
 
-`r icon::fa("github")` [saaralonbarkat](https://github.com/saaralonbarkat)
+[`r icon::fa("github")` saaralonbarkat](https://github.com/saaralonbarkat)
 
-`r icon::fa("twitter")` [saarbarkat](https://twitter.com/saarbarkat)
+[`r icon::fa("twitter")` saarbarkat](https://twitter.com/saarbarkat)
 
-`r icon::fa("google")` [Scholar](https://scholar.google.co.il/citations?user=KF2FL04AAAAJ&hl=en&oi=ao)
+[`r icon::fa("google")` Scholar](https://scholar.google.co.il/citations?user=KF2FL04AAAAJ&hl=en&oi=ao)
 
-`r icon::fa("file-powerpoint")` [Publons profile](https://publons.com/researcher/1367408/saar-alon-barkat/)
+[`r icon::fa("file-powerpoint")` Publons profile](https://publons.com/researcher/1367408/saar-alon-barkat/)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3342-0568" href="https://orcid.org/0000-0002-3342-0568" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3342-0568</a></div>
 <br>
 
 <br>
-[Download my CV](https://github.com/saaralonbarkat/site/raw/master/files/Saar%20Alon-Barkat%20CV%2030.1.19.pdf) 
+[`r icon::fa("download")` Download my CV](https://github.com/saaralonbarkat/site/raw/master/files/Saar%20Alon-Barkat%20CV%2030.1.19.pdf) 
 
 
 
