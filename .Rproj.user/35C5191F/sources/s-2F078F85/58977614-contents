@@ -1,0 +1,20 @@
+name: "SAAR ALON-BARKAT"
+output_dir: "."
+navbar:
+  title: "Saar Alon-Barkat"
+  type: inverse
+  left:
+    - text: "PUBLICATIONS"
+      href: publications.html
+    - text: "DATA"
+      href: data.html
+    - text: "TEACHING"
+      href: teaching.html
+
+
+
+output:
+  html_document:
+    keep_md: no
+    theme: readable
+    highlight: textmate

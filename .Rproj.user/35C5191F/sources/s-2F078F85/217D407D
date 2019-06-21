@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561061064856.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "667905868",
+    "id" : "217D407D",
+    "lastKnownWriteTime" : 1561100915,
+    "last_content_update" : 1561100916008,
+    "path" : "~/GitHub/site/publications.Rmd",
+    "project_path" : "publications.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,0",
+        "scrollLine" : "23"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

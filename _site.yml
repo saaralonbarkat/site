@@ -4,25 +4,12 @@ navbar:
   title: "Saar Alon-Barkat"
   type: inverse
   left:
-    - text: "ABOUT ME"
-      href: about.html
     - text: "PUBLICATIONS"
       href: publications.html
-    - text: "PROJECTS"
-      href: projects.html
     - text: "DATA"
       href: data.html
     - text: "TEACHING"
       href: teaching.html
-  right:
-    - text: ""
-      icon: fa-envelope-o
-      href: mailto:saar.barkat@mail.huji.ac.il                      # CHANGE HERE 
-    - text: ""
-      icon: fa-github
-      href: https://github.com/saaralonbarkat         # CHANGE HERE 
-    - text: "R-G"
-      href: https://www.researchgate.net/profile/Saar_Alon-Barkat         # CHANGE HERE 
 
 
 

@@ -1,7 +1,3 @@
----
-title: "Here's my data"
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -12,30 +8,24 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-Alon-Barkat, Saar, and Sharon Gilad. 2017. "Compensating for Poor Performance with Promotional Symbols: Evidence from a Survey Experiment". *Journal of Public Administration Research and Theory*. 27(4): 661-675. DOI: [10.1093/jopart/mux013](https://doi.org/10.1093/jopart/mux013).  
-<br>
-Data is based on online survey experiment conducted on December 2015.
-Replication materials available online at ['github.com/saaralonbarkat/IEC_2015'](https://github.com/saaralonbarkat/IEC_2015). 
-<br>
-```{r , include=FALSE, echo=FALSE}
-PROMSYMB = read.csv("C:/SAAR/UNIVERSITY/R/site/DATA_files/PROMSYMB.csv")
-```
+**Alon-Barkat, Saar**. Forthcoming 2019. "Can government public communications elicit undue trust? Exploring the interaction between symbols and substantive information in communications". **Journal of Public Administration Research and Theory**. DOI: [10.1093/jopart/muz013](https://doi.org/10.1093/jopart/muz013).
 
 <br>
+Data is based on online survey experiment conducted on January-February 2018 among residents of selected cities in Israel (recruited via *iPanel*). 
 
-```{r , warning = FALSE, message = FALSE,echo=FALSE}
-require(rpivotTable)
-require(dplyr)
-PROMSYMB_01 = PROMSYMB %>%
-  select(SYMBOL,AREA,EVALUATION_index,SATISFACTION,TRUST)
-rpivotTable(PROMSYMB_01)
-```
-<br>
-
+Replication materials available online at ['github.com/saaralonbarkat/SVIVA_2018'](https://github.com/saaralonbarkat/SVIVA_2018). 
 
 ---
 
+Alon-Barkat, Saar, and Sharon Gilad. 2017. "Compensating for Poor Performance with Promotional Symbols: Evidence from a Survey Experiment". *Journal of Public Administration Research and Theory*. 27(4): 661-675. DOI: [10.1093/jopart/mux013](https://doi.org/10.1093/jopart/mux013).  
+
 <br>
+Data is based on online survey experiment conducted on December 2015 among residents of selected cities in Israel (recruited via *Midgam*).
+
+Replication materials available online at ['github.com/saaralonbarkat/IEC_2015'](https://github.com/saaralonbarkat/IEC_2015). 
+
+---
+
 
 Gilad, Sharon, **Saar Alon-Barkat**, and Alexandr Braverman. 2016. "Large-Scale Social Protest: A Business Risk and a Bureaucratic Opportunity". *Governance* 29(3): 371-392. DOI: [10.1111/gove.12173](https://doi.org/10.1111/gove.12173).  
 
@@ -43,12 +33,6 @@ Gilad, Sharon, **Saar Alon-Barkat**, and Alexandr Braverman. 2016. "Large-Scale 
 
 <br>
 This project is based on a cross-sectional-time-series dataset that includes the advertising expenditures of 136 Israeli organizations (businesses, public organizations and NGOs) between 2010-2012 (half year periods), together with organizations' charecteristics. Data collected between 2013-2014.  
+
 Replication materials available online at ['github.com/saaralonbarkat/PROTEST_2014'](https://github.com/saaralonbarkat/PROTEST_2014). 
-
-
-
-
-
-
-
 
