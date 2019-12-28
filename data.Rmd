@@ -8,9 +8,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ---
 
-**Alon-Barkat, Saar**. Forthcoming 2019. "Can government public communications elicit undue trust? Exploring the interaction between symbols and substantive information in communications". **Journal of Public Administration Research and Theory**. DOI: [10.1093/jopart/muz013](https://doi.org/10.1093/jopart/muz013).
+**Alon-Barkat, Saar**. 2020. "The emotive effect of government branding on citizens’ trust and its boundaries: Does the personal relevance of the policy issue matter?". *Public Administration*. DOI: [10.1111/padm.12647](https://doi.org/10.1111/padm.12647).
+
+**Alon-Barkat, Saar**. 2020. "Can government public communications elicit undue trust? Exploring the interaction between symbols and substantive information in communications". *Journal of Public Administration Research and Theory* 30(1): 77-95. DOI: [10.1093/jopart/muz013](https://doi.org/10.1093/jopart/muz013).
 
 <br>
+
 Data is based on online survey experiment conducted on January-February 2018 among residents of selected cities in Israel (recruited via *iPanel*). 
 
 Replication materials available online at ['github.com/saaralonbarkat/SVIVA_2018'](https://github.com/saaralonbarkat/SVIVA_2018). 
