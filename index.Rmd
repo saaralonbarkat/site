@@ -12,7 +12,7 @@ I am an academic researcher of Public Administration and Public Policy.
 
 My main research interest is in the interrelations between modern government bureaucratic organizations and their external audiences, and their implications for democracy.
 
-I am currently working as a postdoctoral researcher of Public Administration at the Institute of Public Administration at Leiden University. I am conducting my research within the ERC-funded EURICA project (Reputation matters in the regulatory state: [euricaerc.eu](http://euricaerc.eu/)), led by Dr. Madalina Busuioc. 
+I am currently working as a postdoctoral researcher of Public Administration at the Institute of Public Administration at Leiden University. I am conducting my research within the ERC-funded EURICA project (Reputation matters in the regulatory state: [euricaerc.eu](http://euricaerc.eu/)), led by Dr. Madalina Busuioc. In October 2020, I will be joining the [school of Political Sciences at Haifa University](https://poli.hevra.haifa.ac.il/index.php?option=com_sppagebuilder&view=page&id=3&Itemid=539&lang=en). 
 
 I received my Ph.D. in Public Administration from the Hebrew University of Jerusalem in 2019. In my doctoral research, under the supervision of Prof. Sharon Gilad, I explored how symbolic aspects in government communications with citizens influence, and manipulate, the attitudes of citizens about government organizations. In additional research projects in which I participated, I studied government organizations' responses to public pressures, and specifically to large-scale social protest.
 
@@ -21,22 +21,22 @@ I am a methodological pluralist. I specialize in behavioral experiments, yet in 
 
 ---
 
-[`r icon::fa("envelope")` s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
+[`r #icon::fa("envelope")` s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
 
-[`r icon::fa("bars")` Research Gate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
+[`r #icon::fa("bars")` Research Gate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
 
-[`r icon::fa("github")` saaralonbarkat](https://github.com/saaralonbarkat)
+[`r #icon::fa("github")` saaralonbarkat (GitHub)](https://github.com/saaralonbarkat)
 
-[`r icon::fa("twitter")` saarbarkat](https://twitter.com/saarbarkat)
+[`r #icon::fa("twitter")` saarbarkat](https://twitter.com/saarbarkat)
 
-[`r icon::fa("google")` Scholar](https://scholar.google.co.il/citations?user=KF2FL04AAAAJ&hl=en&oi=ao)
+[`r #icon::fa("google")` Google Scholar](https://scholar.google.co.il/citations?user=KF2FL04AAAAJ&hl=en&oi=ao)
 
-[`r icon::fa("file-powerpoint")` Publons profile](https://publons.com/researcher/1367408/saar-alon-barkat/)
+[`r #icon::fa("file-powerpoint")` Publons profile](https://publons.com/researcher/1367408/saar-alon-barkat/)
 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-3342-0568" href="https://orcid.org/0000-0002-3342-0568" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-3342-0568</a></div>
 
 <br>
-[`r icon::fa("download")` Download my CV](https://github.com/saaralonbarkat/site/raw/master/files/Saar%20Alon-Barkat%20CV%2006.01.20.pdf) 
+[`r #icon::fa("download")` Download my CV](https://github.com/saaralonbarkat/site/raw/master/files/Saar%20Alon-Barkat%20CV%2006.01.20.pdf) 
 
 
 

@@ -15,5 +15,5 @@ navbar:
 output:
   html_document:
     keep_md: no
-    theme: readable
+    theme: yeti
     highlight: textmate
