@@ -21,7 +21,7 @@ I am a methodological pluralist. I specialize in behavioral experiments, yet in 
 
 ---
 
-[`r #icon::fa("envelope")` s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
+[`r #icon::fa("envelope")` E-mail: s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
 
 [`r #icon::fa("bars")` Research Gate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
 
