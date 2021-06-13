@@ -12,14 +12,14 @@ I am an academic researcher of Public Administration and Public Policy. I am an 
 
 My main research interest is in the interrelations between modern government bureaucratic organizations and their external audiences, and their implications for democracy. In addition, I am interested the use of AI algorithms in the public sector, and its implications on the dynamics of bureaucratic decision making.  
 
-I received my Ph.D. in Public Administration from the Hebrew University of Jerusalem in 2019. Thereafter, I was a postdoctoral researcher at the Institute of Public Administration at Leiden University, within the ERC-funded EURICA project (Reputation matters in the regulatory state: euricaerc.eu), led by Dr. Madalina Busuioc. 
+I received my Ph.D. in Public Administration from the Hebrew University of Jerusalem in 2019. Thereafter, I was a postdoctoral researcher at the Institute of Public Administration at Leiden University, within the ERC-funded EURICA project (Reputation matters in the regulatory state: euricaerc.eu). 
 
 I am a methodological pluralist. I specialize in behavioral experiments, yet I also employ in my studies a variety of additional empirical approaches, including cross-sectional time-series analyses, quantitative case studies, and quantitative and qualitative analyses of interviews. I enjoy working with data in R.
 
 
 ---
 
-[`r #icon::fa("envelope")` E-mail: s.alon.barkat@fgga.leidenuniv.nl](mailto:s.alon.barkat@fgga.leidenuniv.nl)
+[`r #icon::fa("envelope")` E-mail: s.alon.barkat@poli.haifa.ac.il](mailto:s.alon.barkat@poli.haifa.ac.il)
 
 [`r #icon::fa("bars")` Research Gate](https://www.researchgate.net/profile/Saar_Alon-Barkat)  
 
