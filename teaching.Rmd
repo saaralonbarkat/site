@@ -1,22 +1,33 @@
 <br><br>
 
-2020-2021:
+
 
 <br>
 
-*Experiments as a tool in policy design*
+*Policy impact evaluation*
 
-ניסויים ככלי בעיצוב מדיניות
+הערכת האפקטיביות של מדיניות
 
-205.4512
 
 <br>
 
-*Data skills: Practical workshop for public managers*
+*Working with data in governance and policy practice: A practical workshop*
 
-מיומנויות בעבודה עם דאטה: סדנה מעשית למנהלים
+עבודה עם דאטה בעולמות הפרקטיקה של הממשל והמדיניות: סדנה מעשית
 
-205.4513
+
+<br>
+
+*Theoretical approaches in public administration*
+
+גישות ואסכולות במינהל ציבורי
+
+
+<br>
+
+*The relations between citizens and government bureaucracies in a democratic state*
+
+מערכת היחסים בין האזרחים למינהל הציבורי במדינה דמוקרטית
 
 ---
 

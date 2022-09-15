@@ -6,8 +6,6 @@ navbar:
   left:
     - text: "PUBLICATIONS"
       href: publications.html
-    - text: "DATA"
-      href: data.html
     - text: "TEACHING"
       href: teaching.html
 

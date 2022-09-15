@@ -1,19 +1,24 @@
 <br><br>
 
-**Saar Alon-Barkat** and Madalina Busuioc. 2022. "Human-AI Interactions in Public Sector Decision-Making: ‘Automation Bias’ and ‘Selective Adherence’ to Algorithmic Advice". *Journal of Public Administration Research and Theory*, 2022;, muac007. [10.1093/jopart/muac007] (https://doi.org/10.1093/jopart/muac007)
+**Saar Alon-Barkat** and Madalina Busuioc. 2022. "Human-AI Interactions in Public Sector Decision-Making: ‘Automation Bias’ and ‘Selective Adherence’ to Algorithmic Advice". *Journal of Public Administration Research and Theory*, 2022;, muac007. [10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)
 
+[Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TQYJNF). 
 
 ---
 
-Gilad, Sharon, **Saar Alon-Barkat**, Nitzan Faibish and Sarah Goldberg. 2022. "Leveraging city officials’ professional and social Identities to facilitate affordable housing". *Political Geography*, 94: 102570. DOI: [10.1016/j.polgeo.2021.102570] (https://doi.org/10.1016/j.polgeo.2021.102570)
+Gilad, Sharon, **Saar Alon-Barkat**, Nitzan Faibish and Sarah Goldberg. 2022. "Leveraging city officials’ professional and social Identities to facilitate affordable housing". *Political Geography*, 94: 102570. DOI: [10.1016/j.polgeo.2021.102570](https://doi.org/10.1016/j.polgeo.2021.102570)
 
 ---
 
 **Alon-Barkat, Saar**. 2020. "The emotive effect of government branding on citizens’ trust and its boundaries: Does the personal relevance of the policy issue matter?". *Public Administration* 98: 551– 569. DOI: [10.1111/padm.12647](https://doi.org/10.1111/padm.12647).
 
+[Replication materials](https://github.com/saaralonbarkat/SVIVA_2018). 
+
 ---
 
 **Alon-Barkat, Saar**. 2020. "Can government public communications elicit undue trust? Exploring the interaction between symbols and substantive information in communications". *Journal of Public Administration Research and Theory* 30(1): 77--95. DOI: [10.1093/jopart/muz013](https://doi.org/10.1093/jopart/muz013).
+
+[Replication materials](https://github.com/saaralonbarkat/SVIVA_2018). 
 
 ---
 
@@ -31,13 +36,19 @@ Gilad, Sharon, and **Saar Alon-Barkat**. 2018. "Enhancing Democracy via Bureaucr
 
 **Alon-Barkat, Saar**, and Sharon Gilad. 2017. "Compensating for Poor Performance with Promotional Symbols: Evidence from a Survey Experiment". *Journal of Public Administration Research and Theory*. 27(4): 661--675. DOI: [10.1093/jopart/mux013](https://doi.org/10.1093/jopart/mux013).  
 
+[Replication materials](https://github.com/saaralonbarkat/IEC_2015). 
+
 ---
 
 Gilad, Sharon, **Saar Alon-Barkat**, and Alexandr Braverman. 2016. "Large-Scale Social Protest: A Business Risk and a Bureaucratic Opportunity". *Governance* 29(3): 371--392. DOI: [10.1111/gove.12173](https://doi.org/10.1111/gove.12173).  
 
+[Replication materials](https://github.com/saaralonbarkat/PROTEST_2014).
+
 ---
 
 **Alon-Barkat, Saar**, and Sharon Gilad. 2016. "Political control or legitimacy deficit? Bureaucracies' symbolic responses to bottom-up public pressures". *Policy & Politics* 44(1): 41--58. DOI: [10.1332/030557315x14443003393944](https://doi.org/10.1332/030557315x14443003393944)
+
+[Replication materials](https://github.com/saaralonbarkat/PROTEST_2014). 
 
 ---
 
