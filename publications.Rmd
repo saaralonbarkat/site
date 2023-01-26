@@ -1,6 +1,6 @@
 <br><br>
 
-**Saar Alon-Barkat** and Madalina Busuioc. 2022. "Human-AI Interactions in Public Sector Decision-Making: ‘Automation Bias’ and ‘Selective Adherence’ to Algorithmic Advice". *Journal of Public Administration Research and Theory*, 2022;, muac007. [10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)
+**Saar Alon-Barkat** and Madalina Busuioc. 2023. "Human-AI Interactions in Public Sector Decision-Making: ‘Automation Bias’ and ‘Selective Adherence’ to Algorithmic Advice". *Journal of Public Administration Research and Theory*, 33(1): 153--169. [10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)
 
 [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TQYJNF). 
 
