@@ -1,5 +1,15 @@
 <br><br>
 
+**Saar Alon-Barkat** and Madalina Busuioc. Forthcoming. "Independent Agencies, Credible Policies? The Role of Prior Beliefs in Shaping Stakeholder Perceptions of Credibility in a Contested Environment". *Journal of European Public Policy*. [10.1080/13501763.2023.2294145](http://dx.doi.org/10.1080/13501763.2023.2294145)
+
+[Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NK3PGZ). 
+
+---
+
+**Saar Alon-Barkat** and Madalina Busuioc. Forthcoming. "Public Administration Meets Data Science: Towards a Meaningful Behavioural Research Agenda on Algorithmic Decision-Making in Government". *Journal of Behavioural Public Administration*. 
+
+---
+
 **Saar Alon-Barkat** and Madalina Busuioc. 2023. "Human-AI Interactions in Public Sector Decision-Making: ‘Automation Bias’ and ‘Selective Adherence’ to Algorithmic Advice". *Journal of Public Administration Research and Theory*, 33(1): 153--169. [10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)
 
 [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TQYJNF). 
