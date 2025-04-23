@@ -1,12 +1,19 @@
 <br><br>
 
-**Saar Alon-Barkat** and Madalina Busuioc. Forthcoming. "Independent Agencies, Credible Policies? The Role of Prior Beliefs in Shaping Stakeholder Perceptions of Credibility in a Contested Environment". *Journal of European Public Policy*. [10.1080/13501763.2023.2294145](http://dx.doi.org/10.1080/13501763.2023.2294145)
+**Saar Alon-Barkat**, Sharon Gilad, Nir Kosti and Ilana Shpaizman. 2025. "Career Civil Servants’ Socially Embedded Responses to Democratic Backsliding". *Perspectives on Politics*. [10.1017/S153759272500074X](http://dx.doi.org/10.1017/S153759272500074X)
+
+[Replication materials](https://doi.org/10.7910/DVN/N7WGRO). 
+
+
+---
+
+**Saar Alon-Barkat** and Madalina Busuioc. 2025. "Independent Agencies, Credible Policies? The Role of Prior Beliefs in Shaping Stakeholder Perceptions of Credibility in a Contested Environment". *Journal of European Public Policy* 32(3): 810--841. [10.1080/13501763.2023.2294145](http://dx.doi.org/10.1080/13501763.2023.2294145)
 
 [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NK3PGZ). 
 
 ---
 
-**Saar Alon-Barkat** and Madalina Busuioc. Forthcoming. "Public Administration Meets Data Science: Towards a Meaningful Behavioural Research Agenda on Algorithmic Decision-Making in Government". *Journal of Behavioural Public Administration*. 
+**Saar Alon-Barkat** and Madalina Busuioc. 2024 "Public Administration Meets Data Science: Towards a Meaningful Behavioural Research Agenda on Algorithmic Decision-Making in Government". *Journal of Behavioural Public Administration*. 7. [10.30636/jbpa.71.261](https://doi.org/10.30636/jbpa.71.261) 
 
 ---
 
@@ -20,7 +27,7 @@ Gilad, Sharon, **Saar Alon-Barkat**, Nitzan Faibish and Sarah Goldberg. 2022. "L
 
 ---
 
-**Alon-Barkat, Saar**. 2020. "The emotive effect of government branding on citizens’ trust and its boundaries: Does the personal relevance of the policy issue matter?". *Public Administration* 98: 551– 569. DOI: [10.1111/padm.12647](https://doi.org/10.1111/padm.12647).
+**Alon-Barkat, Saar**. 2020. "The emotive effect of government branding on citizens’ trust and its boundaries: Does the personal relevance of the policy issue matter?". *Public Administration* 98: 551–-569. DOI: [10.1111/padm.12647](https://doi.org/10.1111/padm.12647).
 
 [Replication materials](https://github.com/saaralonbarkat/SVIVA_2018). 
 
