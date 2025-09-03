@@ -1,6 +1,19 @@
 <br><br>
 
-**Saar Alon-Barkat**, Sharon Gilad, Nir Kosti and Ilana Shpaizman. 2025. "Career Civil Servants’ Socially Embedded Responses to Democratic Backsliding". *Perspectives on Politics*. [10.1017/S153759272500074X](http://dx.doi.org/10.1017/S153759272500074X)
+
+**Alon-Barkat, Saar**, Amnon Cavari and Lior Shwarts. 2025. "Partisan bias in citizens’ evaluations of public services under conditions of high political polarization". *Political Behavior*. [10.1007/s11109-025-10078-8](https://doi.org/10.1007/s11109-025-10078-8).
+
+[Replication materials](https://doi.org/10.7910/DVN/2X2WPK). 
+
+---
+
+**Alon-Barkat, Saar**, Madalina Busuioc, Kayla Schwoerer, and Kristina Weißmüller. 2025. "Algorithmic Discrimination in Public Service Provision: Understanding Citizens’ Attribution of Responsibility for Human vs Algorithmic Discriminatory Outcomes". *Journal of Public Administration Research and Theory*. [10.1093/jopart/muaf024](https://doi.org/10.1093/jopart/muaf024). 
+
+[Replication materials](https://doi.org/10.17605/osf.io/z5jgm). 
+
+---
+
+**Alon-Barkat, Saar**, Sharon Gilad, Nir Kosti and Ilana Shpaizman. 2025. "Career Civil Servants’ Socially Embedded Responses to Democratic Backsliding". *Perspectives on Politics*. [10.1017/S153759272500074X](http://dx.doi.org/10.1017/S153759272500074X)
 
 [Replication materials](https://doi.org/10.7910/DVN/N7WGRO). 
 
@@ -13,11 +26,11 @@
 
 ---
 
-**Saar Alon-Barkat** and Madalina Busuioc. 2024 "Public Administration Meets Data Science: Towards a Meaningful Behavioural Research Agenda on Algorithmic Decision-Making in Government". *Journal of Behavioural Public Administration*. 7. [10.30636/jbpa.71.261](https://doi.org/10.30636/jbpa.71.261) 
+**Alon-Barkat, Saar** and Madalina Busuioc. 2024 "Public Administration Meets Data Science: Towards a Meaningful Behavioural Research Agenda on Algorithmic Decision-Making in Government". *Journal of Behavioural Public Administration*. 7. [10.30636/jbpa.71.261](https://doi.org/10.30636/jbpa.71.261) 
 
 ---
 
-**Saar Alon-Barkat** and Madalina Busuioc. 2023. "Human-AI Interactions in Public Sector Decision-Making: ‘Automation Bias’ and ‘Selective Adherence’ to Algorithmic Advice". *Journal of Public Administration Research and Theory*, 33(1): 153--169. [10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)
+**Alon-Barkat, Saar** and Madalina Busuioc. 2023. "Human-AI Interactions in Public Sector Decision-Making: ‘Automation Bias’ and ‘Selective Adherence’ to Algorithmic Advice". *Journal of Public Administration Research and Theory*, 33(1): 153--169. [10.1093/jopart/muac007](https://doi.org/10.1093/jopart/muac007)
 
 [Replication materials](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TQYJNF). 
 
