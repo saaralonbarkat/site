@@ -7,7 +7,7 @@
 
 ---
 
-**Alon-Barkat, Saar**, Madalina Busuioc, Kayla Schwoerer, and Kristina Weißmüller. 2025. "Algorithmic Discrimination in Public Service Provision: Understanding Citizens’ Attribution of Responsibility for Human vs Algorithmic Discriminatory Outcomes". *Journal of Public Administration Research and Theory*. [10.1093/jopart/muaf024](https://doi.org/10.1093/jopart/muaf024). 
+**Alon-Barkat, Saar**, Madalina Busuioc, Kayla Schwoerer, and Kristina Weißmüller. 2025. "Algorithmic Discrimination in Public Service Provision: Understanding Citizens’ Attribution of Responsibility for Human vs Algorithmic Discriminatory Outcomes". *Journal of Public Administration Research and Theory* 35(4): 469--488. [10.1093/jopart/muaf024](https://doi.org/10.1093/jopart/muaf024). 
 
 [Replication materials](https://doi.org/10.17605/osf.io/z5jgm). 
 
