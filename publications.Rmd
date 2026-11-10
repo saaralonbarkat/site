@@ -1,7 +1,17 @@
 <br><br>
 
 
-**Alon-Barkat, Saar**, Amnon Cavari and Lior Shwarts. 2025. "Partisan bias in citizens’ evaluations of public services under conditions of high political polarization". *Political Behavior*. [10.1007/s11109-025-10078-8](https://doi.org/10.1007/s11109-025-10078-8).
+Leidorf‐Tidå, Benjamin, **Saar Alon‐Barkat**, Madalina Busuioc, and Thijs de Boer. 2026. "Independent Agencies, Regulation‐Compliant Citizens? Evidence From a Survey Experiment on Vaccine Authorization in the EU." *Regulation & Governance*. [10.1111/rego.70205](https://doi.org/10.1111/rego.70205).
+
+[Replication materials](https://doi.org/10.7910/DVN/UBHDBI). 
+
+---
+
+Sulitzeanu-Kenan, Raanan, Markus Tepe, **Saar Alon-Barkat**, Florian Erlbruch, Omer Yair, Michael Jankowski, and Christine Prokop-Scheer. 2026. "Public sector culture does not increase honest behavior: evidence from RCTs in five countries". *Behavioural Public Policy*. [10.1017/bpp.2026.10032](https://doi.org/10.1017/bpp.2026.10032)
+
+---
+
+**Alon-Barkat, Saar**, Amnon Cavari and Lior Shwarts. 2026. "Partisan bias in citizens’ evaluations of public services under conditions of high political polarization". *Political Behavior* 48(3), 1479--1503. [10.1007/s11109-025-10078-8](https://doi.org/10.1007/s11109-025-10078-8).
 
 [Replication materials](https://doi.org/10.7910/DVN/2X2WPK). 
 
